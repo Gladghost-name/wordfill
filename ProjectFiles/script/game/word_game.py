@@ -3,7 +3,7 @@
 #########################
 
 import random # importing the random module
-from englishw import englishwords # importing the corrected english words list
+from english import englishwords # importing the corrected english words list
 
 words = ['fun', 'mouse', 'loose', 'lost', 'want', 'font', 'that', 'shot', 'fowl', 'bowl', 'bull', 'fool', 'know', 'lost'
          'golf', 'foolish', 'things', 'place', 'people', 'write', 'read', 'shoot', 'shot', 'foot', 'loot', 'boot', 'moon'
